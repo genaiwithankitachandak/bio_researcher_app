@@ -1,0 +1,6 @@
+# project_id: "bbio-searce-rag-poc-79059"
+project_id: "experiments-435323"
+project_location: "us-central1"
+test: False
+med_gemini_model : 'medlm-large-1.5@001'
+gemini_model: 'gemini-2.0-flash-exp'
